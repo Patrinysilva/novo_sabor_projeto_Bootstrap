@@ -27,7 +27,7 @@ body{
 }
 
 
-#sobre-o-restaurante{
+#sobre-o-restaurante, #cardapio{
     background-color: #ffeae6;
 }
 
@@ -43,4 +43,9 @@ body{
 
 .nav-cardapio .nav-link:hover{
     color: #e15f41;
+}
+
+
+#cardapio img {
+    height: 160px;
 }
